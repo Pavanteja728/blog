@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "devURL": "http://localhost:8010",
+    "env": "development",
+    "dbURL": "'mongodb://localhost/blogs'",
+    "sessionSecret": "qwertyuiop123456789"
+}
